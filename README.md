@@ -2,7 +2,7 @@
 - vuex 예제
 - vuex Helper 적용!
 
-## Vuex 사용 예제
+## store.js
 - state :  데이터
 - getter : state를 화면에 바인딩 / **computed에 등록**
 - mutation : state값을 변경(=setter) / **methods에 등록** / 동기
