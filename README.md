@@ -17,6 +17,11 @@
 - methods : 이 안에 들어있는 함수들이 모든 상황에서 재실행 (새롭게 다시 계산)  => 모두 methods에 넣으면 성능 저하될수도 있음!
 - computed : 참고하고 있는 값의 변경에만 재실행
 
+## vuex 설치
+```
+npm install vuex --save
+```
+- 설치 후 store.js 파일 생성
 
 ### 참고 블로그
 - https://joshua1988.github.io/web-development/vuejs/vuex-start/#%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0
